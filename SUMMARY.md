@@ -7,7 +7,7 @@
 
 ## Windows
 * [Basic Windows Commands](windows/basic_commands.md)
-* [Privilege Escalation](windows/enumeration.md)
+* [Enumeration](windows/enumeration.md)
 
 ## Active Directory
 * [Enumeration](active_directory/enumeration.md)
