@@ -1,5 +1,5 @@
 # Table of contents
-* [Introduction](README.md)
+* [Infosec Notes](README.md)
 
 ## Linux
 * [Basic Linux Commands](linux/basic_commands.md)
