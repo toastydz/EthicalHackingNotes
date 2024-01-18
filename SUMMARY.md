@@ -2,7 +2,12 @@
 * [Introduction](README.md)
 
 ## Linux
-* [Basic Linux Commands](Linux/README.md)
+* [Basic Linux Commands](linux/basic_commands.md)
+* [Privilege Escalation](linux/privilege_escalation.md)
 
 ## Windows
-* [Basic Windows Commands](Windows/README.md)
+* [Basic Windows Commands](windows/basic_commands.md)
+* [Privilege Escalation](windows/privilege_escalation.md)
+
+## Active Directory
+* [Enumeration](active_directory/enumeration.md)
